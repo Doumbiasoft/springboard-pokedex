@@ -1,0 +1,17 @@
+
+.Pokecard {
+    background-color: #cccc;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+    text-align: center;
+    height: 180px;
+    width: 130px;
+  }
+h3{
+    color: blue;
+}
+p{
+    font-size: 13px;
+}
